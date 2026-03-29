@@ -1,0 +1,7 @@
+{
+  "authorized_keys": [
+    {"unit": "AFAD Komuta", "key": "AFAD2026"},
+    {"unit": "UMKE Acil", "key": "UMKE911"},
+    {"unit": "AKUT Operasyon", "key": "AKUT123"}
+  ]
+}
